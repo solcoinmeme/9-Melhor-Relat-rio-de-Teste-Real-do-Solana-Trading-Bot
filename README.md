@@ -1,5 +1,4 @@
-# 9-Melhor-Relat-rio-de-Teste-Real-do-Solana-Trading-Bot
-9 Melhor Relatório de Teste Real do Solana Trading Bot
+<b>9 Melhor Relatório de Teste Real do Solana Trading Bot</b>
 
 <p>Qual o bot melhor a usar? Das dimens&otilde;es das taxas de manuseamento, seguran&ccedil;a, 
 experiência de utiliza&ccedil;&atilde;o, vantagens/características funcionais, etc., este 
